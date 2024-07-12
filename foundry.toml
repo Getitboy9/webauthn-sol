@@ -8,4 +8,4 @@ fs_permissions = [{ access = "read", path = "test/fixtures" }]
 [fmt]
 sort_imports = true
 wrap_comments = true
-line_length = 140
+line_length = 140https://github.com/base-org/webauthn-sol
